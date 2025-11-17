@@ -2,19 +2,13 @@
 <h3 align="center">Soy un joven egresado en la carrera de desarrollo y gestión de Software tengo 22 años 
 </h3>
 </br>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-- 😁 Normalmente me gusta mucho salir para distraerme.
-- 💻 Mi framework favorito de desarrollo es React Js.
-- 🗣️ **Contactame: [<img alt="Jair Campos | LinkedIn" height="15px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"/>](www.linkedin.com/in/jair-campos-772976338)**
-
----
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/1622dc9f-a127-4c6e-bb5f-abd92f59b645" />
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 
 <p align="left">
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame 🗣️:</h3>
 <a href="https://codepen.io/visualbean" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="visualbean" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alekcarlsen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alekcarlsen" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1841212" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="1841212" height="30" width="40" /></a>
