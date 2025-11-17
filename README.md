@@ -1,10 +1,22 @@
-<h1 align="center">Hola 👋, Me llamo Jair </h1>
-<h3 align="center">Soy un joven egresado en la carrera de desarrollo y gestión de Software tengo 22 años 
+<h1 align="center">Bienvenido a mi GitHub Personal👋 </h1>
+<h3 align="center">
+  
+### 😎 ¿Quién Soy?
+Soy un joven desarrollador de 22 años, recién graduado en la carrera de Desarrollo y Gestión de Software.
+Me considero un apasionado por la programación, siempre buscando aprender e implementar mis conocimientos adquiridos.
+
+### 🛠️ Especialización 
+
+Actualmente, me estoy especializando en el desarrollo de aplicaciones y sitios web utilizando 
+herramientas modernas como Laravel y React JS.
+  
+### 📂 ¡Explora mi Trabajo!
+
+**Te invito a echar un vistazo a mis repositorios** para conocer los proyectos que he realizado.
+
 </h3>
 </br>
 <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/1622dc9f-a127-4c6e-bb5f-abd92f59b645" />
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 
 <p align="left">
