@@ -12,7 +12,7 @@ Me considero un apasionado por la programación, siempre buscando aprender e imp
 ### 🛠️ Especialización 
 
 Actualmente, mi enfoque profesional está en el desarrollo de aplicaciones y sitios web robustos. Me especializo en el ecosistema Laravel y React JS, y tengo experiencia práctica en la gestión de bases de datos relacionales y no relacionales.
-Cuento con más de 1.5 años de experiencia aplicando estos conocimientos en proyectos reales y la motivación de aprender algo nuevo en proyectos futuros.
+Cuento con más de 2 años de experiencia aplicando estos conocimientos en proyectos reales y la motivación de aprender algo nuevo en proyectos futuros.
 
 ### 🎯 Mi Objetivo
 
