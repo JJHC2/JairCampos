@@ -6,7 +6,7 @@
 
 
 ### 😎 ¿Quién Soy?
-Soy un joven desarrollador de 22 años, recién graduado en la carrera de Desarrollo y Gestión de Software.
+Soy un joven desarrollador de 22 años, graduado en la carrera de Desarrollo y Gestión de Software.
 Me considero un apasionado por la programación, siempre buscando aprender e implementar mis conocimientos adquiridos.
 
 ### 🛠️ Especialización 
