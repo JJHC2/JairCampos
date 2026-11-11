@@ -5,8 +5,8 @@
 <h3 align="center">
 
 
-### 😎 ¿Quién Soy?
-Soy un joven desarrollador de 22 años, graduado en la carrera de Desarrollo y Gestión de Software.
+###  ¿Quién Soy?
+Soy un joven desarrollador de 23 años, graduado en la carrera de Desarrollo y Gestión de Software.
 Me considero un apasionado por la programación, siempre buscando aprender e implementar mis conocimientos adquiridos.
 
 ### 🛠️ Especialización 
@@ -19,7 +19,7 @@ Cuento con más de 2 años de experiencia aplicando estos conocimientos en proye
 Convertirme en Desarrollador de Aplicaciones Web Senior atravez del aprendizaje continuo y la aplicación de mis conocimientos. 
 Aspiro a liderar proyectos y aportar valor al equipo de trabajo.
 
-### 📂 ¡Explora mi Trabajo!
+###  ¡Explora mi Trabajo!
 
 **Te invito a echar un vistazo a mis repositorios** para conocer los proyectos que he realizado tanto a nivel academico como empresarial.
 <a href="https://github.com/JJHC2">🖱️Da click aqui para ver mis proyectos.</a>
@@ -36,7 +36,7 @@ Aspiro a liderar proyectos y aportar valor al equipo de trabajo.
 </div>
 <br>
 <p align="left">
-<h3 align="left">Contactame 🗣️:</h3>
+<h3 align="left">Contactame:</h3>
 <a href="https://www.instagram.com/jaircampo_26/?utm_source=qr&igsh=MXVpaTlnamJjZjRqeQ%3D%3D#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="visualbean" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/jair-campos-772976338" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alekcarlsen" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/1F3vFXokqx/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="1841212" height="30" width="40" /></a>
